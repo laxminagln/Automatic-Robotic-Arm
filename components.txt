@@ -1,0 +1,8 @@
+Arduino UNO
+IC 7806 (6)
+Bread board / PCB
+Male and Female wires
+Potentiometers (6) - for manual control
+Ultrasonic sensor
+Servo motor (6)
+Claw
