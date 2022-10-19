@@ -1,6 +1,6 @@
-#include <Servo.h>
-Servo servo1, servo2, servo3, servo4, servo5, servo6;
-int pos = 0;    
+#include <Servo.h> //Servo library 
+Servo servo1, servo2, servo3, servo4, servo5, servo6; //Declaring 6 servos
+int pos = 0; //initial position
 const int pingPin = 7; 
 const int echoPin = 4; 
 
