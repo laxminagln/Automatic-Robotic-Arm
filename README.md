@@ -13,3 +13,5 @@ This project is the implementation of a 6 axis robotic arm which can be rotated 
 The automated feature is brought into play with the help of obstacle sensing mechanism. Ultrasonic sensors are used to detect
 obstacles. When the obstacle comes within the prescribed radius, it gets sensed with the help of the ultrasonic sensor and 
 that object is picked by the arm.
+
+For the updated version of this project using Inverse Kinematics and OpenCV, Please contact me : laxminagln@gmail.com
