@@ -7,7 +7,7 @@ With its sleek design and state-of-the-art technology, this robotic arm can perf
 
 Equipped with servo motors, stepper motors and sensors, this robotic arm can swiftly move through its six axes, effortlessly lifting and manipulating objects with precision and efficiency. Its end effector can be customized to suit various applications, including gripping, welding, or even painting.
 
-<img src="Images/RoboDK_model.png" width="500">
+<center><img src="Images/RoboDK_model.png" width="500"></center>
 
 This project is the implementation of a 6 axis robotic arm which can be rotated to any direction manually or automatically.
 The automated feature is brought into play with the help of obstacle sensing mechanism. Ultrasonic sensors are used to detect
